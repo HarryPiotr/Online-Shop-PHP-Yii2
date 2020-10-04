@@ -1,6 +1,6 @@
 Web Development Final Project 2020
 -----
-- Piotr Anuśkiewicz @m305904
+Piotr Anuśkiewicz @m305904
 \
 \
 Database MYSQL Workbench model is in the assets directory\
